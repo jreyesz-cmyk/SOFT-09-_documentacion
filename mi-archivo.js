@@ -14,4 +14,10 @@ public class HolaMundo {
         int resultado = a + b;
         System.out.println("La suma de " + a + " + " + b + " es: " + resultado);
     }
+
+    public static void sumar(int a, int b) { //Cambio para utilizar application
+        int resultado = a + b;
+        System.out.println("La suma de " + a + " + " + b + " es: " + resultado);
+    }
+
 }
